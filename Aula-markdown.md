@@ -22,7 +22,10 @@ SELECT * FRON tb_aluno;
 |git branch -M main| renomeia a branch principal|
 |git add<arquivo>| manda os arquivos para área de staging|
 |git log| verifica hitórico de commit|
-|git commit| cria um novo ponto de restauração|
+|git commit -m "nome da restauração"| cria um novo ponto de restauração|
+|git checkout -b nome da branch| cria branch e muda para ela|
+|git checkout <nome da branch>| muda de uma branch para outra|
+
 
 
 
