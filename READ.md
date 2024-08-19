@@ -9,3 +9,4 @@ bcwdbfuiwbfiwbwfwffsfnsljfwf
 |03|compreendendo GIT|[Aqui](./aula-git.md)|
 
 
+commit -m 'aula 19/08/2024'
