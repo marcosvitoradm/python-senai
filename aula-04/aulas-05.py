@@ -64,7 +64,7 @@ jasmine = input ('Jasmine apareceu? \n')
 if (alladin =='sim') and (jasmine == 'sim'):
     print('Love')
 else:
-    print('Não roulou')'''
+    print('Não roulou')
 
 trabalhei = input ('você trabalhou hoje? \n')
 estudei = input ('você estudou hoje? \n')
@@ -72,9 +72,13 @@ estudei = input ('você estudou hoje? \n')
 if (trabalhei == 'sim') or (estudei == 'sim'):
     print('parabéns, vai ficar rico')
 else:
-    print('que pena, fica pra próxima vida!')
+    print('que pena, fica pra próxima vida!')'''
 
+trabalhei = input ('você trabalhou hoje? \n')
+estudei = input ('você estudou hoje? \n')
 
+not if (trabalhei == 'sim') or (estudei == 'sim'):
+    print('parabéns, vai ficar rico')
 
 
 
