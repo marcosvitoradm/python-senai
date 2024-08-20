@@ -11,4 +11,9 @@ bcwdbfuiwbfiwbwfwffsfnsljfwf
 
 commit -m 'aula 19/08/2024'
 
+git add .
+git commit -m "mudanças aula 5"
+git push
+
+
 

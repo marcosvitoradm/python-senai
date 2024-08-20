@@ -45,7 +45,10 @@ area = (base * altura) / 2
 # Exibir o resultado
 print(f"A área do triângulo é: {area}")
 
-git add .
+
+
+
+
 
 
 
