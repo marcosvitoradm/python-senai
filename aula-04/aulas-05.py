@@ -72,13 +72,17 @@ estudei = input ('você estudou hoje? \n')
 if (trabalhei == 'sim') or (estudei == 'sim'):
     print('parabéns, vai ficar rico')
 else:
-    print('que pena, fica pra próxima vida!')'''
+    print('que pena, fica pra próxima vida!')
 
 trabalhei = input ('você trabalhou hoje? \n')
 estudei = input ('você estudou hoje? \n')
 
-not if (trabalhei == 'sim') or (estudei == 'sim'):
+if not(trabalhei == 'sim') or (estudei == 'sim'):
     print('parabéns, vai ficar rico')
+else:
+    print('que pena, fica pra próxima vida!')'''
+
+
 
 
 
