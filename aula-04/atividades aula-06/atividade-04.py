@@ -10,3 +10,4 @@ elif cor == "azul":
     print("Você escolheu a cor azul!")
 else:
     print("Cor inválida. Por favor, escolha entre vermelho, verde ou azul.")
+azul
