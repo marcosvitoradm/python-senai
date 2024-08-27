@@ -1,7 +1,7 @@
 # CURSO DE PYTHON Senai 4444
 
 bcwdbfuiwbfiwbwfwffsfnsljfwf
-
+marcos.v.loiola@aluno.senai.br
 |aula|descrição||
 |-|-|-|
 |01|introdução ao curso||
