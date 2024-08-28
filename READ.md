@@ -1,7 +1,19 @@
 # CURSO DE PYTHON Senai 4444
 
 bcwdbfuiwbfiwbwfwffsfnsljfwf
+
+
 marcos.v.loiola@aluno.senai.br
+
+# GII BASH
+## Cadastrar credênciais 
+git config --global user.name "Marcos Vitor"
+git config --global user.email "marcosvitor.adm@gmail.com"
+
+
+
+
+
 |aula|descrição||
 |-|-|-|
 |01|introdução ao curso||
