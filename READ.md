@@ -5,7 +5,7 @@ bcwdbfuiwbfiwbwfwffsfnsljfwf
 
 marcos.v.loiola@aluno.senai.br
 
-# GII BASH
+# GIT BASH
 ## Cadastrar credênciais 
 git config --global user.name "Marcos Vitor"
 git config --global user.email "marcosvitor.adm@gmail.com"
