@@ -42,3 +42,34 @@ gitignore.io
 # site para fazer o README automatico
 README.io
 
+
+# Mudar de ambiente virtual
+source senai/Scripts/activate
+
+
+# Cria o arquivo de texto
+pip freeze > requirements.txt
+
+# Faz a instalação do pacote de requirements
+pip install -r requirements.txt
+
+
+# PEP 8
+guia para codar em Python
+
+# ajuda a programar em Python
+Pycharm
+
+# simula o Pycharm dentro do Visual Studio Code
+autopep8
+arquiv/preferencias/configurações/formar/default formatter/ format on save
+
+# Matriz
+uma lista dentro de outra lista
+
+
+
+
+
+
+

@@ -23,7 +23,6 @@ numero2 = '25'
 print(numero1 + numero2)
 
 
-
 numero1 = int(input('Informe o primeiro numero \n'))
 numero2 = int(input('Informe o segundo numero \n'))
 
@@ -33,11 +32,7 @@ multiplicacao = numero1 * numero2
 divisao = numero1 / numero2
 
 
-
-
-
-
-#Primeirro algoritmo python
+# Primeirro algoritmo python
 
 '''Segundo código python'''
 
@@ -57,7 +52,6 @@ print(type(int(vivo)))
 print(int(vivo))
 
 
-
 print(soma)
 print(subtracao)
 print(multiplicacao)
@@ -68,9 +62,3 @@ print('a soma é: ', soma)
 print('a subtracao é: ', (subtracao))
 
 print(f'a multiplicacao é: {multiplicacao} e a divisao é: {divisao}')
-
-
-
-
-
-
