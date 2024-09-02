@@ -31,3 +31,14 @@ HTTP.Cats
 
 
 
+
+# Cria novo ambiênte virtual
+python3 -m venv venv 
+
+# site para listar pastas que devem ser ignoradas no git push para não pesar o github
+gitignore.io
+
+
+# site para fazer o README automatico
+README.io
+
