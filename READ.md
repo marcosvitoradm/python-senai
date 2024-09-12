@@ -11,7 +11,7 @@ git config --global user.name "Marcos Vitor"
 git config --global user.email "marcosvitor.adm@gmail.com"
 
 
-    
+
 
 
 |aula|descrição||
@@ -68,7 +68,11 @@ arquiv/preferencias/configurações/formar/default formatter/ format on save
 uma lista dentro de outra lista
 
 
-
+<!-- ALUNO@LAB-F07-20 MINGW64 ~/Desktop/python-senai (main) -->
+$ source venv/Scripts/activate
+(venv) 
+% ALUNO@LAB-F07-20 MINGW64 ~/Desktop/python-senai (main)
+$ jupyter-notebook
 
 
 
